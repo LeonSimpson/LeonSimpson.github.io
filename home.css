@@ -16,7 +16,7 @@ em {
     line-height: 45px;
     background-color: rgb(255,255,255);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    padding: 10px; /* Add padding here */
+    padding: 10px;
 }
 
 #intro-box p {
@@ -26,7 +26,7 @@ em {
 }
 
 #intro-box p em{
-    background-color:rgba(91, 155, 213, 0.6);;
+    background-color:rgba(91, 155, 213, 0.6);
     color: rgb(255, 255, 255);
     padding: 0px 2px 0px 2px;
     font-weight: 700;
