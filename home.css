@@ -58,7 +58,12 @@ em {
 }
 
 #socials img {
-    max-width: 60px;
+    max-width: 70px;
+    transition: transform 0.2s ease-in-out;
+}
+
+#socials img:hover{
+    transform: scale(1.2);
 }
 
 #socials table {
